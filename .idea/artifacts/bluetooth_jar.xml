@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="bluetooth:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bluetooth_jar</output-path>
+    <root id="archive" name="bluetooth.jar">
+      <element id="module-output" name="bluetooth" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/bluecove-2.1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/comm-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/bluecove-gpl-2.1.1.jar" path-in-jar="/" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
