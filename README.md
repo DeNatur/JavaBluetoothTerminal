@@ -1,6 +1,8 @@
 # JavaBluetoothTerminal
 Bluetooth terminal -desktop version to use in Arduino/Raspberry Pi projects.
-Use only on windows. Press arrow keys to send 'U'(pp arrow key), 'D'(down arrow key), 'R'(right arrow key), 'L'(left arrow key) to send chars to connected device.
+Use only on windows. 
+
+Press arrow keys to send 'U'(pp arrow key), 'D'(down arrow key), 'R'(right arrow key), 'L'(left arrow key) to send chars to connected device.
 
 Used libraries: Bluecove 2.1.1
 
