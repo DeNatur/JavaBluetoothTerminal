@@ -153,7 +153,7 @@ public class Main extends Application {
 
 
 
-        primaryStage.setTitle("AMSD");
+        primaryStage.setTitle("Bluetooth");
         primaryStage.setScene(scene);
         primaryStage.show();
 
