@@ -1,4 +1,4 @@
-# JavaBluetoothTerminal
+# Java Bluetooth Terminal
 Bluetooth terminal -desktop version to use in Arduino/Raspberry Pi projects.
 Use only on windows. 
 
